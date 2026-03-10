@@ -1,2 +1,7 @@
-# -
-用于分析案件类型
+case-analyzer-skill/
+├── README.md
+├── requirements.txt
+├── skill.py
+├── config.json
+└── examples/
+    └── sample_data.xlsx
